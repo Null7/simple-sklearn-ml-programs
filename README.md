@@ -1,1 +1,1 @@
-# simple_sklearn_examples
+# simple-sklearn-ml-programs
